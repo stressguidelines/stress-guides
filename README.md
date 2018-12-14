@@ -7,6 +7,8 @@ Current version 1_1 of all guidelines
 
 STRESS for Discrete Event Simulation
 
+[..blob/master/STRESS_DES_v1_1]
+
 STRESS for Agent-based Simulation
 
 STRESS for Systems Dynamics
