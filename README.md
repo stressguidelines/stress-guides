@@ -10,6 +10,11 @@ In response to this we developed STRESS to help to improve the reporting of disc
 
 We hope that STRESS can help to improve reproducibility of simulation results and to help modellers compose and structure Data Management Plans reflecting the broader aspects of simulation. 
 
+*Please see the STRESS [wiki](https://github.com/stressguidelines/stress-guides/wiki)
+for advice on how to use the Guidelines and a growing set of examples.*
+
+Please feel free to suggest modifications or even new STRESS Guidelines (e.g. for hybrid simulation). We also want to develop a listing of published STRESS Guidelines.  Please [contact us](mailto:stressguides@gmail.com) with suggestions and Guideline examples.
+
 ## Latest versions of the STRESS Guidelines (v1_1) ##
 
 The latest versions of the STRESS Guidelines are as follows:
@@ -21,8 +26,6 @@ The latest versions of the STRESS Guidelines are as follows:
 - STRESS for Systems Dynamics (STRESS_SD_V1_1.docx)
 
 You can download all of the above from our [Github Repository](https://github.com/stressguidelines/stress-guides/) (Click on the filename in the repository and then click on the download on the right)
-
-Please feel free to suggest modifications or even new STRESS Guidelines (e.g. for hybrid simulation) - [contact us](mailto:stressguides@gmail.com).
 
 **Citation**
 
@@ -44,7 +47,7 @@ Added section 6 to enable specification of how to access code, data, etc.
 
 - Taylor, S.J.E., Anagnostou, A., Monks, T., Currie, C., Onggo, B.S., Kunc, M., Robinson, S. (2018). Applying the STRESS Guidelines for Reproducibility in Modeling & Simulation: Application to a Disease Modeling Case Study. In Proceedings of the 2018 Winter Simulation Conference, to appear.
 
-*An example of how STRESS-ABS can be used to document and agent based simulation.*
+*An example of how STRESS-ABS can be used to document and agent based simulation.  The STRESS record for the Disease Modelling Case Study is at http://dx.doi.org/10.15169/sci-gaia:1494421530.94.*
 
 - Taylor, S.J.E., Eldabi, T., Monks, T., Rabe, M., Uhrmacher, A.M. (2018). Crisis, What Crisis: Does Reproducibility in Modeling & Simulation Really Matter? In Proceedings of the 2018 Winter Simulation Conference, to appear.
 
