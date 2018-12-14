@@ -1,6 +1,6 @@
 # Welcome to the Strengthening the Reporting of Empirical Simulation Studies (STRESS) Guidelines pages
 
-## Latest versions of the STRESS Guidelines (v1_1)
+### Latest versions of the STRESS Guidelines (v1_1)
 
 The latest versions of the STRESS Guidelines are as follows:
 
@@ -10,11 +10,11 @@ The latest versions of the STRESS Guidelines are as follows:
 
 - STRESS for Systems Dynamics (STRESS_SD_V1_1.docx)
 
-You can download all of the above from our [Github Repository](https://github.com/stressguidelines/stress-guides/)
-
-(Click on the filename in the repository and then click on the download on the right)
+You can download all of the above from our [Github Repository](https://github.com/stressguidelines/stress-guides/) (Click on the filename in the repository and then click on the download on the right)
 
 Please feel free to suggest modifications or even new STRESS Guidelines (e.g. for hybrid simulation) - [contact us](mailto:stressguides@gmail.com).
+
+**Citation**
 
 If you are using the STRESS Guidelines, we would be grateful if you could cite the following paper: 
 
