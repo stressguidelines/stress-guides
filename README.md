@@ -1,19 +1,13 @@
 # Welcome to the STRESS pages - these are under development and will be finalised mid-Decemeber 2018
 
 
-## Latest version of the STRESS Guidelines
+## Latest version of the STRESS Guidelines (v1_1)
 
-Current version 1_1 of all guidelines
+[STRESS for Discrete Event Simulation](https://github.com/stressguidelines/stress-guides/STRESS_DES_V1_1.docx)
+[STRESS for Agent Based Simulation](https://github.com/stressguidelines/stress-guides/STRESS_ABS_V1_1.docx)
+[STRESS for Systems Dynamics](https://github.com/stressguidelines/stress-guides/STRESS_SD_V1_1.docx)
 
-STRESS for Discrete Event Simulation
-
-[..blob/master/STRESS_DES_v1_1]
-
-STRESS for Agent-based Simulation
-
-STRESS for Systems Dynamics
-
-Please feel free to suggest modifications or even new STRESS Guidelines (e.g. for hybrid simulation).  Contact details.
+Please feel free to suggest modifications or even new STRESS Guidelines (e.g. for hybrid simulation) - [contact us](mailto:stressguides@gmail.com).
 
 ## Revision history
 
