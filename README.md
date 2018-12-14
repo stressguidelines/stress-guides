@@ -1,6 +1,6 @@
-# Welcome to the Strengthening the Reporting of Empirical Simulation Studies (STRESS) Guidelines pages
+# Welcome to the Strengthening the Reporting of Empirical Simulation Studies (STRESS) Guidelines pages #
 
-### Latest versions of the STRESS Guidelines (v1_1)
+## Latest versions of the STRESS Guidelines (v1_1) ##
 
 The latest versions of the STRESS Guidelines are as follows:
 
@@ -18,9 +18,9 @@ Please feel free to suggest modifications or even new STRESS Guidelines (e.g. fo
 
 If you are using the STRESS Guidelines, we would be grateful if you could cite the following paper: 
 
-Thomas Monks, Christine S. M. Currie, Bhakti Stephan Onggo, Stewart Robinson, Martin Kunc & Simon J. E. Taylor (2018) Strengthening the reporting of empirical simulation studies: Introducing the STRESS guidelines, Journal of Simulation, DOI: [https://doi.org/10.1080/17477778.2018.1442155](10.1080/17477778.2018.1442155).
+Thomas Monks, Christine S. M. Currie, Bhakti Stephan Onggo, Stewart Robinson, Martin Kunc & Simon J. E. Taylor (2018) Strengthening the reporting of empirical simulation studies: Introducing the STRESS guidelines, Journal of Simulation, DOI: [10.1080/17477778.2018.1442155](https://doi.org/10.1080/17477778.2018.1442155).
 
-## Revision history
+## Revision history ##
 
 *Guidelines v1_0*
 
@@ -30,35 +30,23 @@ First version of the Guidelines.
 
 Added section 6 to enable specification of how to access code, data, etc.
 
+## Interesting papers ##
 
-### Markdown
+Taylor, S.J.E., Anagnostou, A., Monks, T., Currie, C., Onggo, B.S., Kunc, M., Robinson, S. (2018). Applying the STRESS Guidelines for Reproducibility in Modeling & Simulation: Application to a Disease Modeling Case Study. In Proceedings of the 2018 Winter Simulation Conference, to appear.
+*An example of how STRESS-ABS can be used to document and agent based simulation.*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Taylor, S.J.E., Eldabi, T., Monks, T., Rabe, M., Uhrmacher, A.M. (2018). Crisis, What Crisis: Does Reproducibility in Modeling & Simulation Really Matter? In Proceedings of the 2018 Winter Simulation Conference, to appear.
 
-```markdown
-Syntax highlighted code block
+*An interesting panel at WSC2018 that presents different views on the reproducibility crisis.*
 
-# Header 1
-## Header 2
-### Header 3
+Taylor, S.J.E., Anagnostou, A., Fabiyi, A., Currie, C. and Monks, T. (2017). Open Science: Approaches and Benefits for Modeling & Simulation. In Proceedings of the 2017 Winter Simulation Conference, 535-549. doi: 10.1109/WSC.2017.8247813.
 
-- Bulleted
-- List
+*Reproducibility is one aspect of Open Science.  This introductory tutorial paper shows how one could take an Open Science approach to documenting data, models, results, people and even Science Gatewats in an acadmic paper.  It's a good template to use if you are interested.*
 
-1. Numbered
-2. List
+Taylor, S. J. E., Fabiyi, A., Anagnostou, A., Barbera, R., Torrisi, M., Ricceri, R., & Becker, B. (2016). Demonstrating Open Science for Modeling & Simulation Research. In Proceedings of the 2016 ACM/IEEE International Symposium on Distributed Simulation and Real Time Applications (DS-RT 2016), 191-192. doi:10.1109/DS-RT.2016.35. 
 
-**Bold** and _Italic_ and `Code` text
+*The original paper just focusing on a demonstration of the above.*
 
-[Link](url) and ![Image](src)
-```
+Uhrmacher, A. M., Brailsford, S. C., Liu, J., Rabe, M. and Tolk, A. (2016). Panel – Reproducible Research in Discrete Event Simulation - A Must or Rather a Maybe? In Proceedings of the 2016 Winter Simulation Conference, 1301–131. doi: 10.1109/WSC.2016.7822185.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stressguidelines/stress-guides/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*An earlier panel on reproducibility with interesting views!*
