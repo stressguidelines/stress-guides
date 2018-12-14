@@ -1,27 +1,35 @@
-# Welcome to the STRESS pages - these are under development and will be finalised mid-Decemeber 2018
+# Welcome to the Strengthening the Reporting of Empirical Simulation Studies (STRESS) Guidelines pages
 
+## Latest versions of the STRESS Guidelines (v1_1)
 
-## Latest version of the STRESS Guidelines (v1_1)
+The latest versions of the STRESS Guidelines are as follows:
 
-[STRESS for Discrete Event Simulation](https://github.com/stressguidelines/stress-guides/STRESS_DES_V1_1.docx)
+- STRESS for Discrete Event Simulation (STRESS_DES_V1_1.docx)
 
-[STRESS for Agent Based Simulation](https://github.com/stressguidelines/stress-guides/STRESS_ABS_V1_1.docx)
+- STRESS for Agent Based Simulation (STRESS_ABS_V1_1.docx)
 
-[STRESS for Systems Dynamics](https://github.com/stressguidelines/stress-guides/STRESS_SD_V1_1.docx)
+- STRESS for Systems Dynamics (STRESS_SD_V1_1.docx)
+
+You can download all of the above from our [Github Repository](https://github.com/stressguidelines/stress-guides/)
+
+(Click on the filename in the repository and then click on the download on the right)
 
 Please feel free to suggest modifications or even new STRESS Guidelines (e.g. for hybrid simulation) - [contact us](mailto:stressguides@gmail.com).
 
+If you are using the STRESS Guidelines, we would be grateful if you could cite the following paper: 
+
+Thomas Monks, Christine S. M. Currie, Bhakti Stephan Onggo, Stewart Robinson, Martin Kunc & Simon J. E. Taylor (2018) Strengthening the reporting of empirical simulation studies: Introducing the STRESS guidelines, Journal of Simulation, DOI: [https://doi.org/10.1080/17477778.2018.1442155](10.1080/17477778.2018.1442155).
+
 ## Revision history
 
-Guidelines v1_1
+*Guidelines v1_0*
+
+First version of the Guidelines.
+
+*Guidelines v1_1*
 
 Added section 6 to enable specification of how to access code, data, etc.
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/stressguidelines/stress-guides/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
