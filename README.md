@@ -1,5 +1,23 @@
-## Welcome to the STRESS pages - these are under development and will be finalised mid-Decemeber 2018
+# Welcome to the STRESS pages - these are under development and will be finalised mid-Decemeber 2018
 
+
+## Latest version of the STRESS Guidelines
+
+Current version 1_1 of all guidelines
+
+STRESS for Discrete Event Simulation
+
+STRESS for Agent-based Simulation
+
+STRESS for Systems Dynamics
+
+Please feel free to suggest modifications or even new STRESS Guidelines (e.g. for hybrid simulation).  Contact details.
+
+## Revision history
+
+Guidelines v1_1
+
+Added section 6 to enable specification of how to access code, data, etc.
 
 ## Welcome to GitHub Pages
 
