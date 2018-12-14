@@ -4,7 +4,9 @@
 ## Latest version of the STRESS Guidelines (v1_1)
 
 [STRESS for Discrete Event Simulation](https://github.com/stressguidelines/stress-guides/STRESS_DES_V1_1.docx)
+
 [STRESS for Agent Based Simulation](https://github.com/stressguidelines/stress-guides/STRESS_ABS_V1_1.docx)
+
 [STRESS for Systems Dynamics](https://github.com/stressguidelines/stress-guides/STRESS_SD_V1_1.docx)
 
 Please feel free to suggest modifications or even new STRESS Guidelines (e.g. for hybrid simulation) - [contact us](mailto:stressguides@gmail.com).
